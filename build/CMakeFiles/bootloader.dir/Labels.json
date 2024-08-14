@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Biostim/Kadam_v4_firmware/Lifting_leg_with_led_indication/esp-idf-lib-master/examples/icm42670/default/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "C:/Biostim/Kadam_v4_firmware/Lifting_leg_with_led_indication/esp-idf-lib-master/examples/icm42670/default/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "C:/Biostim/Kadam_v4_firmware/Lifting_leg_with_led_indication/esp-idf-lib-master/examples/icm42670/default/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "C:/Biostim/Kadam_v4_firmware/Lifting_leg_with_led_indication/esp-idf-lib-master/examples/icm42670/default/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "C:/Biostim/Kadam_v4_firmware/Lifting_leg_with_led_indication/esp-idf-lib-master/examples/icm42670/default/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "C:/Biostim/Kadam_v4_firmware/Lifting_leg_with_led_indication/esp-idf-lib-master/examples/icm42670/default/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "C:/Biostim/Kadam_v4_firmware/Lifting_leg_with_led_indication/esp-idf-lib-master/examples/icm42670/default/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "C:/Biostim/Kadam_v4_firmware/Lifting_leg_with_led_indication/esp-idf-lib-master/examples/icm42670/default/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "C:/Biostim/Kadam_v4_firmware/Lifting_leg_with_led_indication/esp-idf-lib-master/examples/icm42670/default/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "C:/Biostim/Kadam_v4_firmware/Lifting_leg_with_led_indication/esp-idf-lib-master/examples/icm42670/default/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}

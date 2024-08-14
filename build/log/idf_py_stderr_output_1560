@@ -1,0 +1,4 @@
+C:\Users\Admin\AppData\Local\Temp\kconfgen_tmpaqwjq2bm:5: warning: '"Not determined"' is not a valid value for the bool symbol SOC_BROWNOUT_RESET_SUPPORTED (defined at C:/Users/Admin/esp/v5.2.1/esp-idf\./components/soc/esp32s2/include/soc/Kconfig.soc_caps.in:298). Assignment ignored.
+warning: the value 'y' is invalid for SOC_MPI_OPERATIONS_NUM (defined at C:/Users/Admin/esp/v5.2.1/esp-idf\./components/soc/esp32s2/include/soc/Kconfig.soc_caps.in:882), which has type int -- assignment ignored
+warning: the value 'y' is invalid for SOC_EFUSE_SECURE_BOOT_KEY_DIGESTS (defined at C:/Users/Admin/esp/v5.2.1/esp-idf\./components/soc/esp32s2/include/soc/Kconfig.soc_caps.in:930), which has type int -- assignment ignored
+Including esp_timer in color

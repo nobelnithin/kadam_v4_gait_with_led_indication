@@ -1,0 +1,6 @@
+source "C:/Users/Admin/esp/v5.2.1/esp-idf/components/bootloader/Kconfig.projbuild"
+source "C:/Users/Admin/esp/v5.2.1/esp-idf/components/esp_app_format/Kconfig.projbuild"
+source "C:/Users/Admin/esp/v5.2.1/esp-idf/components/esp_rom/Kconfig.projbuild"
+source "C:/Users/Admin/esp/v5.2.1/esp-idf/components/esptool_py/Kconfig.projbuild"
+source "C:/Users/Admin/esp/v5.2.1/esp-idf/components/partition_table/Kconfig.projbuild"
+source "C:/Biostim/Kadam_v4_firmware/Lifting_leg_with_led_indication/esp-idf-lib-master/examples/icm42670/default/main/Kconfig.projbuild"
